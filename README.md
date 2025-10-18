@@ -108,9 +108,15 @@ images/API.jpeg
 
 Below is an example preview of the matrimonial profile listing page:
 
+- **App:**
 ![App Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/frontend.jpeg)
+
+- **API:**
 ![API Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/API.jpeg)
-![Database Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/Databasejpeg)
+
+- **Database:**
+![Database Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/Database.jpeg)
+
 
 ---
 
