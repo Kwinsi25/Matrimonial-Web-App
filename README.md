@@ -101,16 +101,16 @@ Then open your browser and visit:
 - **Frontend:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 - **Admin Panel:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 - **API:** [http://127.0.0.1:8000/api/profiles/](http://127.0.0.1:8000/api/profiles/)
-
+images/API.jpeg
 ---
 
 ## 💻 Project Preview
 
 Below is an example preview of the matrimonial profile listing page:
 
-![App Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/frontend.png)
-![API Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/API.png)
-![Database Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/Databasepng)
+![App Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/frontend.jpeg)
+![API Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/API.jpeg)
+![Database Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/Databasejpeg)
 
 ---
 
