@@ -1,4 +1,4 @@
-# 💍 Mini Matrimonial Platform
+# Matrimonial Platform
 
 This is a Django-based mini matrimonial platform that extracts and displays user profiles from sample HTML pages using **BeautifulSoup**.
 
@@ -97,7 +97,7 @@ python manage.py runserver
 Then open your browser and visit:
 - **Frontend:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 - **Admin Panel:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
-
+- **API:** [http://127.0.0.1:8000/api/profiles/](http://127.0.0.1:8000/api/profiles/)
 ---
 
 ## 📦 Project Structure
@@ -143,7 +143,7 @@ matrimonial_project/
 ## 🧑‍💻 Author
 
 Developed by **Sadhu Kwinsi**  
-For Django Practical Assessment — Mini Matrimonial Platform  
+For Django Practical Assessment — Matrimonial Platform  
 October 2025
 
 ---
