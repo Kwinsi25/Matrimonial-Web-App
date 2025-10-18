@@ -108,9 +108,9 @@ Then open your browser and visit:
 
 Below is an example preview of the matrimonial profile listing page:
 
-![App Screenshot](images/frontend.png)
-![API Screenshot](images/API.png)
-![Database Screenshot](images/Databasepng)
+![App Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/frontend.png)
+![API Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/API.png)
+![Database Screenshot](https://github.com/Kwinsi25/Matrimonial-Web-App/blob/main/images/Databasepng)
 
 ---
 
