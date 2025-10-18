@@ -34,8 +34,12 @@ The project demonstrates skills in:
 
 ## 🧩 Project Setup
 
-### 1. Clone or extract the project
-Unzip the assignment folder and open it in your code editor or terminal.
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/matrimonial_project.git
+cd matrimonial_project
+```
 
 ### 2. Create and activate virtual environment
 ```bash
@@ -84,7 +88,6 @@ Expected output:
 ✅ Saved: Rohit Sharma (Surat)
 ✅ Done. 2 profiles added.
 ```
-
 ---
 
 ## 🌐 Running the Application
@@ -98,6 +101,17 @@ Then open your browser and visit:
 - **Frontend:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 - **Admin Panel:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 - **API:** [http://127.0.0.1:8000/api/profiles/](http://127.0.0.1:8000/api/profiles/)
+
+---
+
+## 💻 Project Preview
+
+Below is an example preview of the matrimonial profile listing page:
+
+![App Screenshot](images/frontend.png)
+![API Screenshot](images/API.png)
+![Database Screenshot](images/Databasepng)
+
 ---
 
 ## 📦 Project Structure
